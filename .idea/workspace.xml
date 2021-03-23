@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99e5f77e-37be-45b4-bb58-5395c0949978" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/backend/api/amplifyDatasource/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/api/amplifyDatasource/schema.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/NoteRecyclerViewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/NoteRecyclerViewAdapter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="jajukapil1" />
         <option value="jaukapil1" />
       </list>
     </option>
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616447828853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="newCommit">
+      <created>1616507242052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616507242052</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +240,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIRST COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
+    <MESSAGE value="newCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="newCommit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="270" y="228" key="#PSD" timestamp="1616189233668">
@@ -256,10 +264,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="550" y="228" key="AndroidProcessChooserDialog/0.0.1504.963@0.0.1504.963" timestamp="1615954220874" />
-    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616452121358">
+    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616508208352">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616452121358" />
+    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616508208352" />
     <state x="533" y="229" key="FileChooserDialogImpl" timestamp="1616447542097">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -292,10 +300,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1616448832469" />
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616452139688">
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616508220532">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616452139688" />
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616508220532" />
     <state x="455" y="290" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1615954855993">
       <screen x="0" y="0" width="1504" height="963" />
     </state>

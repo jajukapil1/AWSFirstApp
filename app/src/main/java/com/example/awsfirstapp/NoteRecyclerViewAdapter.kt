@@ -1,5 +1,6 @@
 package com.example.awsfirstapp
 
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -20,9 +21,11 @@ class NoteRecyclerViewAdapter(
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
 
+        //ABC
         val item = values?.get(position)
         holder.nameView.text = item?.name
         holder.descriptionView.text = item?.description
+        Log.i("NOTE", "Initialized NoteRecyclerViewAdapter")
 
         if (item?.image != null) {
             holder.imageView.setImageBitmap(item.image)
