@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e5f77e-37be-45b4-bb58-5395c0949978" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/NoteRecyclerViewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/awsfirstapp/NoteRecyclerViewAdapter.kt" afterDir="false" />
-    </list>
+    <list default="true" id="99e5f77e-37be-45b4-bb58-5395c0949978" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,8 +219,18 @@
       <option name="project" value="LOCAL" />
       <updated>1616507242052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="newCommit">
+      <created>1616508545449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616508545449</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -264,10 +270,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="550" y="228" key="AndroidProcessChooserDialog/0.0.1504.963@0.0.1504.963" timestamp="1615954220874" />
-    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616508208352">
+    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616508544573">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616508208352" />
+    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616508544573" />
     <state x="533" y="229" key="FileChooserDialogImpl" timestamp="1616447542097">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -300,10 +306,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1616448832469" />
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616508220532">
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616508707891">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616508220532" />
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616508707891" />
     <state x="455" y="290" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1615954855993">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
