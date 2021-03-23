@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e5f77e-37be-45b4-bb58-5395c0949978" name="Default Changelist" comment="" />
+    <list default="true" id="99e5f77e-37be-45b4-bb58-5395c0949978" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/backend/api/amplifyDatasource/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/api/amplifyDatasource/schema.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jaukapil1" />
+      </list>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -68,7 +78,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -199,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616439853660</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FIRST COMMIT">
+      <created>1616447828853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616447828853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +229,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIRST COMMIT" />
@@ -238,10 +256,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="550" y="228" key="AndroidProcessChooserDialog/0.0.1504.963@0.0.1504.963" timestamp="1615954220874" />
-    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616439852671">
+    <state x="382" y="50" key="CommitChangelistDialog2" timestamp="1616452121358">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616439852671" />
+    <state x="382" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1616452121358" />
     <state x="533" y="229" key="FileChooserDialogImpl" timestamp="1616447542097">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -270,14 +288,14 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="333" y="224" key="IDE.errors.dialog/0.0.1504.963@0.0.1504.963" timestamp="1615951814086" />
-    <state x="254" y="126" key="SettingsEditor" timestamp="1616440242444">
+    <state x="254" y="126" key="SettingsEditor" timestamp="1616448832469">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1616440242444" />
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616447553263">
+    <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1616448832469" />
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1616452139688">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616447553263" />
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1616452139688" />
     <state x="455" y="290" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1615954855993">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -286,9 +304,9 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="589" y="343" key="git4idea.rebase.GitRebaseDialog/0.0.1504.963@0.0.1504.963" timestamp="1616187070697" />
-    <state x="555" y="388" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616447578313">
+    <state x="555" y="388" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616448753408">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="555" y="388" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1504.963@0.0.1504.963" timestamp="1616447578313" />
+    <state x="555" y="388" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1504.963@0.0.1504.963" timestamp="1616448753408" />
   </component>
 </project>
